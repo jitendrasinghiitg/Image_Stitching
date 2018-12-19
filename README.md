@@ -1,5 +1,6 @@
 # Image_Stitching
 Tutorial on image stitching with minimum Graph cut and colour correction
+
 this tutorial uses:
 1. sift features as feature descriptors
 2. Flann based maching
