@@ -6,5 +6,5 @@ this tutorial uses:
 2. Flann based maching
 3. Ransac for homograpy matrix
 4. After projection of new image on the anchor image ,we use Ransac for colour correction in HSV space
-5. Minimum cost path ,to get best cut between wo images
+5. Minimum cost path ,to get best cut between anchor image and new image
  
